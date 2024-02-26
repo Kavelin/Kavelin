@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Kavelin
-- 👀 I’m interested in ducks
-- 🌱 I’m currently learning ducks
-- 💞️ I’m looking to collaborate on ducks
-- 📫 How to reach me ... DON'T
+👋
