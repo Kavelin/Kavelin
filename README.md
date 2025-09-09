@@ -1,9 +1,22 @@
-hi !
+# hello! ❀𐦖❀
 
-i am interested in all aspects of computer software
+🖱️ i'm a developer + musician 🎶 in the dmv attending gmu! 📘
 
-my experience lies mainly in full stack web app development, as well as game design and development
+━━✿━━━━✿━━━━✿━━━━✿━━━━✿━━━━✿━━━━✿━━━━✿━━━━✿━━━
 
-however, i am trying to learn much more !
+```json
+{
+  "HTML5/CSS/JS": "＼(^0^)／",
 
-check back later for more projects !
+  "Node.js": "＼(^o^)／",
+
+  "Python": "＼(-.-)／",
+
+  "Java": "(^_^)v",
+
+  "Rust": ".....φ( * o *＊)",
+
+  "C/C++": "..φ(・∀・＊)"
+}
+
+```
