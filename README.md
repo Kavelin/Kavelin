@@ -6,17 +6,19 @@
 
 ```json
 {
-  "HTML5/CSS/JS": "＼(^0^)／",
+  "Web development": "＼(^0^)／",
+
+  "Game dev": "＼(^0^)／",
 
   "Node.js": "＼(^o^)／",
 
-  "Python": "＼(-.-)／",
+  "Machine Learning": "＼(-.-)／",
 
-  "Java": "(^_^)v",
+  "Big Data": "(^_^)v",
 
-  "Rust": ".....φ( * o *＊)",
+  "Audio Software": ".....φ( * o *＊)",
 
-  "C/C++": "..φ(・∀・＊)"
+  "Systems Programming": "..φ(・∀・＊)"
 }
 
 ```
