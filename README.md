@@ -2,6 +2,8 @@
 
 🖱️ i'm a developer + musician 🎶 in the dmv attending gmu! 📘
 
+[https://kavelin.github.io/](https://kavelin.github.io/)
+
 ━━✿━━━━✿━━━━✿━━━━✿━━━━✿━━━━✿━━━━
 
 ```json
