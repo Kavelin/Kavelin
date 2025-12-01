@@ -24,3 +24,15 @@
 }
 
 ```
+
+✿ projects
+
+learn-tamil — An app for english speakers to learn Tamil interactively!
+
+dea — web based collaborative daw!
+
+✿ currently learning
+
+✨ web audio using wasm!!
+✨ neuromorphic computing!!!
+✨ microarchitectures!!!!
