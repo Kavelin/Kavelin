@@ -18,9 +18,11 @@
 
   "Big Data": "(^_^)v",
 
-  "Audio Software": ".....φ( * o *＊)",
+  "Audio Software": "φ(・∀・＊)",
 
-  "Systems Programming": "..φ(・∀・＊)"
+  "Systems Programming": "..φ(・∀・＊)",
+
+  "Neuromorphic Computing": ".....φ( * o *＊)",
 }
 
 ```
